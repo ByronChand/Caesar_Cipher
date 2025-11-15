@@ -22,4 +22,3 @@ text = 'Hello'
 shift = 5
 encrypted_text = encrypt(text, shift)
 decrypted_text = decrypt(text, shift)
-print(encrypted_text)

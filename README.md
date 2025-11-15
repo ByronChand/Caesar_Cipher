@@ -61,10 +61,8 @@ decrypt("khoor", 3)
 ## Project Structure
 
 myproject/
-├── caesar.py
+├── caesar_cipher.py
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── tests/
-│ └── test_caesar.py
 └── .venv/
